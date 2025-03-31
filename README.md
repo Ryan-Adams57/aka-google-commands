@@ -95,4 +95,6 @@ Replace `{command}` with the desired command below to quickly navigate to Google
 |---------------------------|-------------------------------|-------------------------------|
 | `aka.ms/identity` | Identity Platform | [console.cloud.google.com/identity](https://console.cloud.google.com/identity) |
 
-You can use the format aka.ms/{command} for quick access to any of these links. Just type aka.ms/admin for the Google Admin Console, or use aka.ms/gcloud for Google Cloud Console, and so on.
+You can use the format aka.ms/{command} for quick access to any of these links.
+
+Just type aka.ms/admin for the Google Admin Console, or use aka.ms/gcloud for Google Cloud Console, and so on.
